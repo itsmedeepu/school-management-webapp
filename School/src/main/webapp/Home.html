@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Home</title>
+<style>
+.navbar {
+	
+	background-color: black;
+	color: white;
+}
+
+.navbar ol li {
+	text-align:right;
+	display: inline-block;
+	padding: 10px;
+}
+
+.navbar ol li:hover {
+	animation: slide 1s linear forward;
+	cursor: pointer;
+}
+
+@keyframes slide { 0%,100%{
+	background-color: green;
+}
+50%
+{
+background-color:blue;
+}
+}
+</style>
+</head>
+<body>
+	<div class="navbar">
+		<ol>
+			<li>Admin</li>
+			<li>Teacher</li>
+			<li>Student</li>
+		</ol>
+
+	</div>
+
+</body>
+</html>
