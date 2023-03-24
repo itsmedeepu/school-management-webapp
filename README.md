@@ -30,7 +30,7 @@ This is a web-based school management system built using Maven webapp. It provid
 
 1. Clone the repository to your local machine.
 2. Import the project into your IDE as a Maven project.
-3. Configure the database connection in the `application.properties` file.
+3. Configure the database connection in the `com.deepak.School.util` package Connectionutil class .
 4. Build the project using `mvn clean install`.
 5. Deploy the generated WAR file to your Tomcat server.
 
