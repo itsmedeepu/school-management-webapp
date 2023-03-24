@@ -47,6 +47,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Contributors
  <a href="https://github.com/itsmedeepu" tite="deepu"><img src="https://avatars.githubusercontent.com/u/90121947?v=4" width="50px" height="50px"></a>
+  <a href="https://github.com/deekshugowdan" style="border-radius:20px;" tite="deeksha"><img src="https://avatars.githubusercontent.com/u/90185015?v=4" width="50px" height="50px"></a>
 
 
 Feel free to contribute by forking the repository and creating a pull request 😊.
