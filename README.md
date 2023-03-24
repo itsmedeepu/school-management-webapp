@@ -46,7 +46,7 @@ This is a web-based school management system built using Maven webapp. It provid
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
 
 ## Contributors
- <a href="github.com/itsmedeepu" tite="deepu"><img src="https://avatars.githubusercontent.com/u/90121947?v=4" width="50px" height="50px"></a>
+ <a href="https://github.com/itsmedeepu" tite="deepu"><img src="https://avatars.githubusercontent.com/u/90121947?v=4" width="50px" height="50px"></a>
 
 
 Feel free to contribute by forking the repository and creating a pull request 😊.
